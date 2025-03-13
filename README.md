@@ -4,3 +4,4 @@
 - Модели: Logistic Regression, Random Forest.
 - Метрики: Accuracy, F1, ROC-AUC.
 - Визуализации: Корреляции, Feature Importance, ROC-кривая.
+- Данные: diabetes.csv (источник: [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database))
